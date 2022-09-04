@@ -58,9 +58,9 @@ Universal Controller is a programmable IR controller, it uses HC-05 bluetooth mo
 
 * [Arduino](https://www.arduino.cc/) - Arduino Programming Language
 * [HC-05](https://www.sparkfun.com/products/13975) - Bluetooth Module
-* [ATmega328P](https://www.sparkfun.com/products/11021) - Arduino Mega
-* [IR LED](https://www.sparkfun.com/products/11021) - IR LED Transmitter
-* [TSOP4838](https://www.sparkfun.com/products/11021) - IR Receiver
+* [ATmega328P](https://www.sparkfun.com/products/11021) - Arduino Uno IC
+* [IR LED](https://www.sparkfun.com/products/9349) - IR LED Transmitter
+* [TSOP4838](https://www.mouser.com/ProductDetail/Vishay-Semiconductors/TSOP4838) - IR Receiver
 
 <!-- ROADMAP -->
 ## Roadmap
