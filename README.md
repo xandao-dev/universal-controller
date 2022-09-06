@@ -6,11 +6,11 @@
     A programmable IR controller that records and replays IR signals.
     <br />
 	<br />
-    <a href="https://github.com/xandao6/universal-controller"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/xandao-dev/universal-controller"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/xandao6/universal-controller/issue">Report Bug</a>
+    <a href="https://github.com/xandao-dev/universal-controller/issue">Report Bug</a>
     ·
-    <a href="https://github.com/xandao6/universal-controller/issues">Request Feature</a>
+    <a href="https://github.com/xandao-dev/universal-controller/issues">Request Feature</a>
   </p>
 </p>
 
@@ -40,7 +40,7 @@
 Universal Controller is a programmable IR controller, it uses HC-05 bluetooth module, standalone Arduino Mega, IR led transmitter and IR reciever TSOP4838. It can store code from other controllers and replay it. Bluetooth control is on the way.
 
 <div align="center">
-  <a href="https://github.com/xandao6/universal-controller">
+  <a href="https://github.com/xandao-dev/universal-controller">
     <img src="./assets/schematic.png" alt="Schematic">
     <img src="./assets/pcb-negative.png" alt="PCB Negative">
     <img src="./assets/prototype.jpeg" alt="Prototype">
@@ -65,7 +65,7 @@ Universal Controller is a programmable IR controller, it uses HC-05 bluetooth mo
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/xandao6/universal-controller/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/xandao-dev/universal-controller/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -88,6 +88,6 @@ Free software =)
 <!-- CONTACT -->
 ## Contact
 
-Alexandre Calil - [@xandao6](https://www.linkedin.com/in/xandao6/) - alexandrecalilmf@gmail.com
+Alexandre Calil - [Linkedin](https://www.linkedin.com/in/xandao-dev/) - [alexandre@xandao.dev](mailto:alexandre@xandao.dev)
 
-Project Link: [https://github.com/xandao6/universal-controller](https://github.com/xandao6/universal-controller)
+Project Link: [https://github.com/xandao-dev/universal-controller](https://github.com/xandao-dev/universal-controller)
